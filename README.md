@@ -2,7 +2,7 @@
 
 An open source (ABAP®) report to extract executed transactions and reports from the memory statistic on user level. You can extract the information (as .csv) for multiple months or even years. Possible use cases include the design of new roles or the redesign of existing roles by excluding unused transactions. I recommend to create a new custom transaction for using this report in production.
 
-Introduction Video (YouTube): tbd *
+Introduction Video (YouTube): https://www.youtube.com/watch?v=C5iZns4Kng4 *
 
 *Please note, by following this link the data privacy policies of the respective platform do apply.
 
